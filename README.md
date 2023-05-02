@@ -1,7 +1,12 @@
 - 👋 Hola, soy Keneth Sánchez.
-- 👀 Estoy interesado en el desarrollo de aplicaciones moviles para android y multiplataformas.
-- 🌱 Actualmente estoy aprendiendo desarrollo de aplicaciones con C#
-- 💞️ En mis conocimientos, tengo experiencia desarrollando en Java, SQL, PHP, Android, Visual Basic .NET.
+- 👀 Estoy interesado en el desarrollo de aplicaciones moviles multiplataformas.
+- 🌱 Actualmente estoy aprendiendo desarrollo de aplicaciones con C# (Web y Movil).
+- 💞️ En mis conocimientos, tengo experiencia desarrollando:
+  - Java (Android, Web, Desktop)
+  - SQL (MySQL, SQLServer)
+  - PHP
+  - Visual Basic .NET
+  - Javascript.
 - 📫 Correo electronico: jairsan2618@gmail.com
 
 <!---
