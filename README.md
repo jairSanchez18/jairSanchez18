@@ -1,7 +1,7 @@
-- 👋 Hola, soy Keneth Sánchez.
+- 👋 Hola, soy Keneth Sánchez un Desarrollador de Software movil.
 - 👀 Estoy interesado en el desarrollo de aplicaciones moviles multiplataformas.
 - 🌱 Actualmente estoy aprendiendo desarrollo de aplicaciones con C# (Web y Movil).
-- 💞️ En mis conocimientos, tengo experiencia desarrollando: Java, SQL, PHP, Visual Basic .NET, Javascript.
+- 🧠 En mis conocimientos, tengo experiencia desarrollando: Java, SQL, PHP, Visual Basic .NET, Javascript.
 - 📫 Correo electronico: jairsan2618@gmail.com
 
 <!---
